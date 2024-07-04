@@ -12,7 +12,7 @@ href="https://github.com/antonkomarev/github-profile-views-counter" target="_bla
 src="https://komarev.com/ghpvc/?username=gabr1elazevedo&label=Visualizações&color=0079FF&style=for-the-badge&abbreviated=true" alt="Visualizações"/></a>
 </div>
 
-<h3 align="center">🌊・Bem-Vindo ao Perfil!<br>🌿・Assistente de Suporte de T.I<br>São Paulo - Brasil.<br>♨️・"A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
+<h3 align="center">🌊 Bem-Vindo ao Perfil!<br>🌿 Assistente de Suporte de T.I<br>São Paulo - Brasil.<br>♨️ "A Ciência de Hoje é a Tecnologia de Amanhã!"<br></h3>
 
 <p align="center">
 <picture>
