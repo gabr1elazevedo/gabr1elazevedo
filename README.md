@@ -71,14 +71,14 @@ src="https://komarev.com/ghpvc/?username=gabr1elazevedo&label=Visualizações&co
 <p align="center">
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide_title=true&locale=pt-br&theme=github_dark&card_width=100px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&count_private=true&rank_icon=github&hide_title=true&locale=pt-br&theme=github_dark&card_width=100px">
   <img alt="Status"     
-src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github&locale=pt-br&theme=default&card_width=100px"> 
+src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_title=true&rank_icon=github&locale=pt-br&theme=default&card_width=100px"> 
 </picture>         
   </a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&layout=compact&hide_title=true&hide_border=true&theme=github_dark&card_width=100px">
-  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&layout=compact&hide_title=true&hide_border=true&theme=default&card_width=100px">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&layout=compact&hide_title=true&theme=github_dark&card_width=100px">
+  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&layout=compact&hide_title=true&theme=default&card_width=100px">  
 </picture>  
 </a>
 </p>
