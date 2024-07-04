@@ -77,8 +77,8 @@ src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=de
 </picture>         
   </a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&layout=compact&hide_title=true&theme=github_dark&card_width=300px">
-  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&layout=compact&hide_title=true&theme=default&card_width=300px">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&layout=donut&hide_title=true&theme=github_dark&card_width=300px">
+  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&layout=donut&hide_title=true&theme=default&card_width=300px">  
 </picture>  
 </a>
 </p>
