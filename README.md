@@ -71,9 +71,9 @@ src="https://komarev.com/ghpvc/?username=gabr1elazevedo&label=Visualizações&co
 <p align="center">
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&count_private=true&rank_icon=github&hide_title=true&show_icons=true&locale=pt-br&theme=github_dark&card_width=100px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&count_private=true&rank_icon=github&hide_title=true&show_icons=true&number_format=short&locale=pt-br&theme=github_dark&card_width=100px">
   <img alt="Status"     
-src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_title=true&show_icons=true&rank_icon=github&locale=pt-br&theme=default&card_width=100px"> 
+src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_title=true&show_icons=true&number_format=true&rank_icon=github&locale=pt-br&theme=default&card_width=100px"> 
 </picture>         
   </a>
 <picture>
