@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="50%" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/481cd864ad6399681423db562d8f908974c7f316/ProfileBanner.svg" height="10px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/481cd864ad6399681423db562d8f908974c7f316/ProfileBanner.svg" height="10px"/></a>
 
 <h1 align="center">Olá, sou o <br><b><a target="_blank" href="#">< Gabriel /></a></b></br>
 <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
@@ -73,12 +73,12 @@ src="https://komarev.com/ghpvc/?username=gabr1elazevedo&label=Visualizações&co
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=github_dark&count_private=true&rank_icon=github&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br">
   <img alt="Status"     
-src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br&theme=default&card_width=50%"> 
+src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br&theme=default"> 
 </picture>         
   </a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=donut&hide_border=true&hide_title=true&card_width=50%">
-  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=donut&hide_border=true&hide_title=true&card_width=50%">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=donut&hide_border=true&hide_title=true">
+  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=donut&hide_border=true&hide_title=true">  
 </picture>  
 </a>
 </p>
