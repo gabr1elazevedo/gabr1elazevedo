@@ -71,14 +71,14 @@ src="https://komarev.com/ghpvc/?username=gabr1elazevedo&label=Visualizações&co
 <p align="center">
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=github_dark&count_private=true&rank_icon=github&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br&card_width=100px">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=github_dark&count_private=true&rank_icon=github&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br&card_width=50%">
   <img alt="Status"     
-src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br&theme=default&card_width=100px"> 
+src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br&theme=default&card_width=50%"> 
 </picture>         
   </a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=donut&hide_border=true&hide_title=true&card_width=100px">
-  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=donut&hide_border=true&hide_title=true&card_width=100px">  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=donut&hide_border=true&hide_title=true&card_width=50%">
+  <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=donut&hide_border=true&hide_title=true&card_width=50%">  
 </picture>  
 </a>
 </p>
