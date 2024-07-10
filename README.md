@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/481cd864ad6399681423db562d8f908974c7f316/ProfileBanner.svg" height="10px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/855590f8f83358cbbe8a49c567f3b158b81e8058/Illustration.svg" height="10px"/></a>
 
 <h1 align="center">Olá, sou o <br><b><a target="_blank" href="#">< Gabriel /></a></b></br>
 <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
