@@ -12,7 +12,7 @@ href="https://github.com/antonkomarev/github-profile-views-counter" target="_bla
 src="https://komarev.com/ghpvc/?username=gabr1elazevedo&label=Visualizações&color=0079FF&style=for-the-badge&abbreviated=true" alt="Visualizações"/></a>
 </div>
 
-<h3 align="center">・Experiência em diversas áreas de T.I. Focado em criar soluções elegantes e colaborar em projetos inovadores!"<br></h3>
+<h3 align="center">・Experiência em diversas áreas de T.I, focado em criar soluções elegantes e colaborar em projetos inovadores!"<br></h3>
 
 <p align="center">
 <picture>
