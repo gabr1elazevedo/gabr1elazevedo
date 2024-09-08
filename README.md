@@ -12,9 +12,7 @@ href="https://github.com/antonkomarev/github-profile-views-counter" target="_bla
 src="https://komarev.com/ghpvc/?username=gabr1elazevedo&label=Visualizações&color=0079FF&style=for-the-badge&abbreviated=true" alt="Visualizações"/></a>
 </div>
 
-<h3 align="center">・Desenvolvedor de Software | Entusiasta de Código Aberto
-
-Experiência em diversas áreas de T.I. Focado em criar soluções elegantes e colaborar em projetos inovadores. Confira meus repositórios para mais detalhes!"<br></h3>
+<h3 align="center">・Experiência em diversas áreas de T.I. Focado em criar soluções elegantes e colaborar em projetos inovadores!"<br></h3>
 
 <p align="center">
 <picture>
@@ -28,7 +26,7 @@ Experiência em diversas áreas de T.I. Focado em criar soluções elegantes e c
 
 - Estou trabalhando na: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
 
-- Leia mais sobre meus projetos em: **[S0ftPortfolio](https://gabr1elazevedo.github.io).**
+- Leia mais sobre meus repositórios | projetos em: **[S0ftPortfolio](https://gabr1elazevedo.github.io).**
 
 - Atualmente estou estudando sobre: **Ciências da Computação com `Java` e `C#`, aperfeiçoando minhas habilidades!**
 
