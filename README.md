@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="banner.svg" height="auto"/></a>
+<a href="#"><img width="75%" height="auto" src="banner.svg" height="auto"/></a>
 
 <h1 align="center">Olá, sou o <br><b><a target="_blank" href="#">< Gabriel /></a></b></br>
 <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
