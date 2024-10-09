@@ -22,6 +22,11 @@ src="https://komarev.com/ghpvc/?username=gabr1elazevedo&label=Visualizações&co
 </picture>
 </p>
 
+## 📚 Redes Sociais:
+
+<p align="center">
+<a href="https://www.linkedin.com/in/deepajarout/"><img src="https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296501_linkedin_network_linkedin logo_icon.png" height="auto" width="40"/></a>
+
 ## 🎨 Sobre Mim:
 
 - Estou trabalhando na: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
