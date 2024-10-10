@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. </h1>
 
-<p align="center"> Welcome to my page! </br> I'm Gabriel, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>São Paulo, Brazil</b>
+<p> Bem-vindo ao meu perfil! </br> Sou Gabriel, Desenvolvedor FullStack de <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b> São Paulo, Brazil </b>
 </p>
 
 <!-- Social Media -->
