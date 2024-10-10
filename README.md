@@ -33,15 +33,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<!-- Snake Game -->
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
-
 ## - Sobre Mim:
 
 - Estou trabalhando na: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
@@ -80,3 +71,12 @@ src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=de
 </p>
 
 ------------
+
+<!-- Snake Game -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
