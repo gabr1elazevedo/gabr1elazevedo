@@ -3,30 +3,6 @@
 <p>Welcome to my page! </br> I'm Gabriel, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>São Paulo, Brazil</b>
 </p>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
-
-## - Sobre Mim:
-
-- Estou trabalhando na: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
-
-- Leia mais sobre meus repositórios | projetos em: **[S0ftPortfolio](https://gabr1elazevedo.github.io).**
-
-- Atualmente estou estudando sobre: **Ciências da Computação com `Java` e `C#`, aperfeiçoando minhas habilidades!**
-
-- Me pergunte qualquer coisa: **[Aqui](https://github.com/gabr1elazevedo/gabr1elazevedo/issues), adoro conhecer e aprender coisas novas!**
-
-- Como chegar em mim? **gabrielaffonsoazevedo0@gmail.com**
-
-- Fatos divertidos! **`Games` ‒ `Música` ‒ `Esportes` ‒ `Viagens` ‒ `Natureza` ‒ `Tecnologia`**
-
-</div>
-
 ## - Minhas Habilidades:
 
 <p align="center">
@@ -57,6 +33,22 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+## - Sobre Mim:
+
+- Estou trabalhando na: **[MMarra Distribuidora Automotiva](https://www.mmarra.com.br/).**
+
+- Leia mais sobre meus repositórios | projetos em: **[S0ftPortfolio](https://gabr1elazevedo.github.io).**
+
+- Atualmente estou estudando sobre: **Ciências da Computação com `Java` e `C#`, aperfeiçoando minhas habilidades!**
+
+- Me pergunte qualquer coisa: **[Aqui](https://github.com/gabr1elazevedo/gabr1elazevedo/issues), adoro conhecer e aprender coisas novas!**
+
+- Como chegar em mim? **gabrielaffonsoazevedo0@gmail.com**
+
+- Fatos divertidos! **`Games` ‒ `Música` ‒ `Esportes` ‒ `Viagens` ‒ `Natureza` ‒ `Tecnologia`**
+
+</div>
+
 ## - Status GitHub:
 
 <p align="center">
@@ -72,6 +64,14 @@ src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=de
   <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=donut&hide_border=true&hide_title=true">  
 </picture>  
 </a>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 
 ## - Redes Sociais:
