@@ -2,8 +2,9 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Olá, sou o Gabriel
 </h1>
-
+<br>
 <img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/0a08fafc551d4804f8bfd60ab34f7816cd27f1b7/Image.svg" alt="Imagem" title="Imagem" width="450"/>
+</br>
 
 <h3 align="left">
   • Tenho paixão por tecnologia! 🚀<br>
