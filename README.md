@@ -3,11 +3,11 @@
   Olá, sou o Gabriel
 </h1>
 
-<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/0a08fafc551d4804f8bfd60ab34f7816cd27f1b7/Image.svg" alt="Imagem" title="Imagem" width="450" height="auto"/>
+<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/0a08fafc551d4804f8bfd60ab34f7816cd27f1b7/Image.svg" alt="Imagem" title="Imagem" width="450"/>
 
 <h3 align="left">
   <br>Tenho paixão por tecnologia! 🚀<br>
-  Sou Assistente de T.I, atualmente estou trabalhando na<br>
+  Sou Assistente de T.I, atualmente trabalhando na<br>
   <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva 🚚</a><br>
   Vivendo em: <b>São Paulo, Brasil
   <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/b0e8c6892dbb64fb13db698a8cd7c6ea33df364f/Brazil.svg" width="20"/>
