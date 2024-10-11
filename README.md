@@ -115,8 +115,8 @@
     </picture>         
   </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" <img height="180" align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=donut&hide_border=true&hide_title=true">
-    <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=donut&hide_border=true&hide_title=true">  
+    <source media="(prefers-color-scheme: dark)" <img height="180" align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=compact&hide_border=true&hide_title=true">
+    <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
   </picture>  
 </div>
 
