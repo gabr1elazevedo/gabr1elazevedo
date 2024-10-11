@@ -6,11 +6,11 @@
 <img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/0a08fafc551d4804f8bfd60ab34f7816cd27f1b7/Image.svg" alt="Imagem" title="Imagem" width="400" height="auto"/>
 
 <h3 align="left">
-  Tenho paixão por programação e tecnologia! 🚀<br> 
+  🚀 Tenho paixão por programação e tecnologia!<br> 
   Sou Assistente de T.I, atualmente trabalhando na: 
   <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva</a><br>
   Vivendo em: <b>São Paulo, Brasil</b>
-  <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/refs/heads/main/Brasil.png" width="15"/> 
+  <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/refs/heads/main/Brasil.png" width="20"/> 
 </h3>
 
 <div>
