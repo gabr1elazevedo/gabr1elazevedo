@@ -13,26 +13,24 @@
   <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/b0e8c6892dbb64fb13db698a8cd7c6ea33df364f/Brazil.svg" width="20"/> 
 </h3>
 
-<div>
+<div align="left">
   <a href="https://x.com/gabr1elazevedo_" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://instagram.com/gabr1elazevedo_" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="." target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://wa.me/5516991533133?text=%F0%9F%91%8B%20Ol%C3%A1%2C%20Gabriel%20Azevedo" target="_blank">
-    <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabr1elazevedo" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ------------
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
   <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
 
 ------------
 
@@ -50,8 +48,8 @@
 
 ------------
 
-<div align="left">
   <h3>🧰 Minhas Habilidades:</h3>
+<div align="center">
   <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://webpack.js.org/concepts/" target="_blank">
@@ -106,8 +104,8 @@
 
 ------------
 
-<div align="left">
   <h3>📊 Meus Status Github:</h3>
+<div align="center">
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
     <picture>
       <source media="(prefers-color-scheme: dark)" <img height="180" align="center" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=github_dark&count_private=true&rank_icon=github&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br">
