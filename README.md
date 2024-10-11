@@ -6,16 +6,19 @@
 <img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/0a08fafc551d4804f8bfd60ab34f7816cd27f1b7/Image.svg" alt="Imagem" title="Imagem" width="450" height="auto"/>
 
 <h3 align="left">
-  Tenho paixão por tecnologia! 🚀<br> 
-  Sou Assistente de T.I, atualmente estou trabalhando na: 
+  <br>Tenho paixão por tecnologia! 🚀<br>
+  Sou Assistente de T.I, atualmente estou trabalhando na<br>
   <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva 🚚</a><br>
-  Vivendo em: <b>São Paulo, Brasil</b>
-  <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/b0e8c6892dbb64fb13db698a8cd7c6ea33df364f/Brazil.svg" width="20"/> 
+  Vivendo em: <b>São Paulo, Brasil
+  <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/b0e8c6892dbb64fb13db698a8cd7c6ea33df364f/Brazil.svg" width="20"/>
+  </br>
 </h3>
 
 <div align="center">
   <a href="https://x.com/gabr1elazevedo_" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://facebook.com/gabr1elazevedo_" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://instagram.com/gabr1elazevedo_" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="." target="_blank">
