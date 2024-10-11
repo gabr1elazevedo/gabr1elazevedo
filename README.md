@@ -20,8 +20,8 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="." target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://github.com/gabr1elazevedo" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://wa.me/5516991533133?text=%F0%9F%91%8B%20Ol%C3%A1%2C%20Gabriel%20Azevedo" target="_blank">
+    <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gabr1elazevedo" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
@@ -41,7 +41,7 @@
   <p>• 📚 Atualmente, estou me dedicando ao:<br>
     <b>Desenvolvimento Back-End com TypeScript e Python, enquanto busco minha carreira como Engenheira de Software.</b></p>
   <p>• ℹ️ Meus hobbies incluem:<br>
-    <b>Jogos 🎮 | Música 🎧 | Esportes 🏃 | Natureza 🍃</b></p>
+    <b>Jogos 🎮 | Música 🎧 | Esportes 🏃 | Natureza 🍃 | Filmes 🎥</b></p>
   <p>• 💬 Sinta-se à vontade para perguntar sobre:<br>
     <b>Qualquer tema! Adoro aprender e explorar novas ideias!</b></p>
   <p>• 📫 Como entrar em contato comigo?<br>
