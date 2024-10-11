@@ -3,7 +3,7 @@
   Olá, sou o Gabriel
 </h1>
 
-<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/d5a5a4edce6c2793030c7fa3a79b423e32d60bf7/Illustration.svg" alt="Imagem" title="Imagem" width="400" height="auto"/>
+<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/0a08fafc551d4804f8bfd60ab34f7816cd27f1b7/Image.svg" alt="Imagem" title="Imagem" width="400" height="auto"/>
 
 <h3 align="left">
   Tenho paixão por programação e tecnologia! 🚀<br> 
