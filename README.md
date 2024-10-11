@@ -6,8 +6,8 @@
 <img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/0a08fafc551d4804f8bfd60ab34f7816cd27f1b7/Image.svg" alt="Imagem" title="Imagem" width="450" height="auto"/>
 
 <h3 align="left">
-  Tenho paixão por programação e tecnologia! 🚀<br> 
-  Sou Assistente de T.I, atualmente trabalhando na: 
+  Tenho paixão por tecnologia! 🚀<br> 
+  Sou Assistente de T.I, atualmente estou trabalhando na: 
   <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva 🚚</a><br>
   Vivendo em: <b>São Paulo, Brasil</b>
   <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/b0e8c6892dbb64fb13db698a8cd7c6ea33df364f/Brazil.svg" width="20"/> 
@@ -23,7 +23,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<div align="center">
+<div align="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
@@ -103,16 +103,16 @@
 
 ------------
 
+<div align="left">
   <h3>📊 Meus Status Github:</h3>
-<div align="center">
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
     <picture>
-      <source media="(prefers-color-scheme: dark)" <img height="170" align="center" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=github_dark&count_private=true&rank_icon=github&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br">
+      <source media="(prefers-color-scheme: dark)" <img height="150" align="center" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=github_dark&count_private=true&rank_icon=github&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br">
       <img alt="Status" src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br&theme=default"> 
     </picture>         
   </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" <img height="170" align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=compact&hide_border=true&hide_title=true">
+    <source media="(prefers-color-scheme: dark)" <img height="150" align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=compact&hide_border=true&hide_title=true">
     <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
   </picture>  
 </div>
