@@ -8,7 +8,7 @@
 <h3 align="left">
   Tenho paixão por programação e tecnologia! 🚀<br> 
   Sou Assistente de T.I, atualmente trabalhando na: 
-  <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva</a><br>
+  <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva 🚚</a><br>
   Vivendo em: <b>São Paulo, Brasil</b>
   <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/b0e8c6892dbb64fb13db698a8cd7c6ea33df364f/Brazil.svg" width="20"/> 
 </h3>
