@@ -3,6 +3,7 @@
   Olá, sou o Gabriel
 </h1>
 
+<br>
 <img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/0a08fafc551d4804f8bfd60ab34f7816cd27f1b7/Image.svg" alt="Imagem" title="Imagem" width="450" height="auto"/>
 
 <h3 align="left">
@@ -13,6 +14,7 @@
   <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/b0e8c6892dbb64fb13db698a8cd7c6ea33df364f/Brazil.svg" width="20"/>
   </br>
 </h3>
+
 
 <div align="left">
   <a href="https://x.com/gabr1elazevedo_" target="_blank">
