@@ -27,7 +27,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<div align="left">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
@@ -111,6 +111,7 @@
 
 <h3>📊 Meus Status Github:</h3>
 
+<div align="center">
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=github_dark&count_private=true&rank_icon=github&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br">
