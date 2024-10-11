@@ -10,7 +10,7 @@
   Sou Assistente de T.I, atualmente trabalhando na: 
   <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva</a><br>
   Vivendo em: <b>São Paulo, Brasil</b>
-  <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/refs/heads/main/Brasil.png" width="20"/> 
+  <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/a3ac64f862c0ece178ddcbb2074355d213959895/Brazil.svg" width="20"/> 
 </h3>
 
 <div>
