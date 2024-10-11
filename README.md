@@ -3,9 +3,9 @@
   Olá, sou o Gabriel
 </h1>
 
-<br>
 <img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/0a08fafc551d4804f8bfd60ab34f7816cd27f1b7/Image.svg" alt="Imagem" title="Imagem" width="450" height="auto"/>
 
+<br>
 <h3 align="left">
   <br>Tenho paixão por tecnologia! 🚀<br>
   Sou Assistente de T.I, atualmente estou trabalhando na<br>
