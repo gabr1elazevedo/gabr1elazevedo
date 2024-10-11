@@ -6,7 +6,7 @@
 <img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/0a08fafc551d4804f8bfd60ab34f7816cd27f1b7/Image.svg" alt="Imagem" title="Imagem" width="450"/>
 <br>
 
-<h3 align="none">
+<h3 align="left">
   Tenho paixão por tecnologia! 🚀<br>
   Sou Assistente de T.I, atualmente trabalhando na<br>
   <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva 🚚</a><br>
@@ -15,7 +15,7 @@
   </b>
 </h3>
 
-<div align="center">
+<div align="left">
   <a href="https://x.com/gabr1elazevedo_" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://facebook.com/gabr1elazevedo_" target="_blank">
@@ -28,7 +28,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-<div align="center">
+<div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
@@ -53,7 +53,7 @@
 ------------
 
 <h3>🧰 Minhas Habilidades:</h3>
-<div align="center">
+<div align="left">
   <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://webpack.js.org/concepts/" target="_blank">
