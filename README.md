@@ -37,8 +37,9 @@
 
 ------------
 
-<div align="left">
   <h3>👋🏻 Sobre Mim:</h3>
+
+<div align="left">
   <p>• 📚 Atualmente, estou me dedicando ao:<br>
     <b>Desenvolvimento Back-End com TypeScript e Python, enquanto busco minha carreira como Engenheira de Software.</b></p>
   <p>• ℹ️ Meus hobbies incluem:<br>
@@ -52,6 +53,7 @@
 ------------
 
 <h3>🧰 Minhas Habilidades:</h3>
+
 <div align="left">
   <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /></a>
@@ -108,17 +110,19 @@
 ------------
 
 <h3>📊 Meus Status Github:</h3>
-<div align="center">
+
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=github_dark&count_private=true&rank_icon=github&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br">
-      <img alt="Status" src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br&theme=default"> 
+      <img alt="Status" height="190" align="center" src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br"> 
     </picture>         
   </a>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=compact&hide_border=true&hide_title=true">
-    <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
+    <img alt="Linguagens" height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
   </picture>  
 </div>
+
 
 ------------
