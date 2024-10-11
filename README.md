@@ -14,7 +14,7 @@
   </br>
 </h3>
 
-<div align="center">
+<div align="left">
   <a href="https://x.com/gabr1elazevedo_" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://facebook.com/gabr1elazevedo_" target="_blank">
