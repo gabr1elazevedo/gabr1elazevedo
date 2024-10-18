@@ -16,7 +16,7 @@
     <b>gabrielaffonsoazevedo0@gmail.com</b></p>
 </div>
 
-<div align="left">
+<div align="center">
   <a href="https://x.com/gabr1elazevedo_" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://facebook.com/gabr1elazevedo_" target="_blank">
@@ -35,7 +35,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg" style="height: 170px;">
   </picture>
 </div>
 
@@ -43,7 +43,7 @@
 
 <h3>🧰 Minhas Habilidades:</h3>
 
-<div align="left">
+<div align="center">
   <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://webpack.js.org/concepts/" target="_blank">
@@ -104,13 +104,13 @@
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=github_dark&count_private=true&rank_icon=github&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br">
-      <img alt="Status" height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br"> 
+      <img alt="Status" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br"> 
     </picture>         
   </a>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=compact&hide_border=true&hide_title=true">
-    <img alt="Linguagens" height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
+    <img alt="Linguagens" height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
   </picture>  
 </div>
 
