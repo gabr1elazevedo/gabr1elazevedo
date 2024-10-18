@@ -8,7 +8,7 @@
   • Tenho paixão por tecnologia! 🚀<br>
   • Sou Assistente de TI, atualmente trabalhando na<br>
   <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva 🚚</a><br>
-  • Vivendo em: <b>São Paulo, Brasil 🟢
+  • Vivendo em: <b>São Paulo, Brasil 🇧🇷
   </b>
 </h3>
 
