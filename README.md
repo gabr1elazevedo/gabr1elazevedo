@@ -2,11 +2,11 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Olá, sou o Gabriel
 </h1>
-<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/bd7852ae10c0ed0f1c4001f7f8035437458efffc/Image.svg" alt="Imagem" title="Imagem" width="450"/>
+<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/bd7852ae10c0ed0f1c4001f7f8035437458efffc/Image.svg" alt="Imagem" title="Imagem" width="500"/>
 
 <h3 align="left">
   • Tenho paixão por tecnologia! 🚀<br>
-  • Sou Assistente de T.I, atualmente trabalhando na<br>
+  • Sou Assistente de TI, atualmente trabalhando na<br>
   <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva 🚚</a><br>
   • Vivendo em: <b>São Paulo, Brasil 🟢
   </b>
@@ -27,8 +27,7 @@
 
 ------------
 
-  <h3>👋🏻 Sobre Mim:</h3>
-
+<h3>👋🏻 Sobre Mim:</h3>
 <div align="left">
   <p>• 📚 Atualmente, estou me dedicando ao:<br>
     <b>Desenvolvimento Back-End com TypeScript e Python, enquanto busco minha carreira como Engenheira de Software.</b></p>
@@ -38,6 +37,16 @@
     <b>Qualquer tema! Adoro aprender e explorar novas ideias!</b></p>
   <p>• 📫 Como entrar em contato comigo?<br>
     <b>gabrielaffonsoazevedo0@gmail.com</b></p>
+</div>
+
+------------
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ------------
@@ -114,14 +123,5 @@
     <img alt="Linguagens" height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
   </picture>  
 </div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 
 ------------
