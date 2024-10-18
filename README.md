@@ -2,7 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Olá, sou o Gabriel
 </h1>
-<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/bd7852ae10c0ed0f1c4001f7f8035437458efffc/Image.svg" alt="Imagem" title="Imagem" width="500"/>
+<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/bd7852ae10c0ed0f1c4001f7f8035437458efffc/Image.svg" alt="Imagem" title="Imagem" width="400"/>
 
 <h3 align="left">
   • Tenho paixão por tecnologia! 🚀<br>
