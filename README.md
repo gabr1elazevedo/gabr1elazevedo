@@ -2,15 +2,19 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Olá, sou o Gabriel
 </h1>
-<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/bd7852ae10c0ed0f1c4001f7f8035437458efffc/Image.svg" alt="Imagem" title="Imagem" width="500"/>
+<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/bd7852ae10c0ed0f1c4001f7f8035437458efffc/Image.svg" alt="Imagem" title="Imagem" width="450"/>
 
-<h3 align="left">
-  • Tenho paixão por tecnologia! 🚀<br>
-  • Sou Assistente de TI, atualmente trabalhando na<br>
-  <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva 🚚</a><br>
-  • Vivendo em: <b>São Paulo, Brasil 🇧🇷
-  </b>
-</h3>
+<h3>👋🏻 Sobre Mim:</h3>
+<div align="left">
+  <p>• 📚 Atualmente, estou focado em:<br>
+    <b>Desenvolvimento Back-End utilizando TypeScript e Python, enquanto busco uma carreira como Engenheiro de Software.</b></p>
+  <p>• ℹ️ Meus hobbies incluem:<br>
+    <b>Jogos 🎮 | Música 🎧 | Esportes 🏃 | Natureza 🍃 | Filmes 🎥</b></p>
+  <p>• 💬 Sinta-se à vontade para me perguntar sobre:<br>
+    <b>Qualquer tema! Adoro aprender e explorar novas ideias.</b></p>
+  <p>• 📫 Para entrar em contato comigo:<br>
+    <b>gabrielaffonsoazevedo0@gmail.com</b></p>
+</div>
 
 <div align="left">
   <a href="https://x.com/gabr1elazevedo_" target="_blank">
@@ -19,24 +23,10 @@
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://instagram.com/gabr1elazevedo_" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="." target="_blank">
+  <a href="#" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="." target="_blank">
+  <a href="#" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
-
-------------
-
-<h3>👋🏻 Sobre Mim:</h3>
-<div align="left">
-  <p>• 📚 Atualmente, estou me dedicando ao:<br>
-    <b>Desenvolvimento Back-End com TypeScript e Python, enquanto busco minha carreira como Engenheiro de Software.</b></p>
-  <p>• ℹ️ Meus hobbies incluem:<br>
-    <b>Jogos 🎮 | Música 🎧 | Esportes 🏃 | Natureza 🍃 | Filmes 🎥</b></p>
-  <p>• 💬 Sinta-se à vontade para perguntar sobre:<br>
-    <b>Qualquer tema! Adoro aprender e explorar novas ideias!</b></p>
-  <p>• 📫 Como entrar em contato comigo?<br>
-    <b>gabrielaffonsoazevedo0@gmail.com</b></p>
 </div>
 
 ------------
@@ -108,7 +98,7 @@
 
 ------------
 
-<h3>📊 Meus Status Github:</h3>
+<h3>📊 Meus Status no GitHub:</h3>
 
 <div align="center">
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
