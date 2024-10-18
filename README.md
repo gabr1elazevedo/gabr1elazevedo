@@ -16,7 +16,7 @@
     <b>gabrielaffonsoazevedo0@gmail.com</b></p>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://x.com/gabr1elazevedo_" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://facebook.com/gabr1elazevedo_" target="_blank">
@@ -43,7 +43,7 @@
 
 <h3>🧰 Minhas Habilidades:</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="https://webpack.js.org/concepts/" target="_blank">
