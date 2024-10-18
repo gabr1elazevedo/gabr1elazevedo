@@ -30,7 +30,7 @@
 <h3>👋🏻 Sobre Mim:</h3>
 <div align="left">
   <p>• 📚 Atualmente, estou me dedicando ao:<br>
-    <b>Desenvolvimento Back-End com TypeScript e Python, enquanto busco minha carreira como Engenheira de Software.</b></p>
+    <b>Desenvolvimento Back-End com TypeScript e Python, enquanto busco minha carreira como Engenheiro de Software.</b></p>
   <p>• ℹ️ Meus hobbies incluem:<br>
     <b>Jogos 🎮 | Música 🎧 | Esportes 🏃 | Natureza 🍃 | Filmes 🎥</b></p>
   <p>• 💬 Sinta-se à vontade para perguntar sobre:<br>
