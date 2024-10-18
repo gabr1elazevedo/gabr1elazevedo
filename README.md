@@ -2,16 +2,13 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Olá, sou o Gabriel
 </h1>
-<br>
-<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/0a08fafc551d4804f8bfd60ab34f7816cd27f1b7/Image.svg" alt="Imagem" title="Imagem" width="450"/>
-</br>
+<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/bd7852ae10c0ed0f1c4001f7f8035437458efffc/Image.svg" alt="Imagem" title="Imagem" width="450"/>
 
 <h3 align="left">
   • Tenho paixão por tecnologia! 🚀<br>
   • Sou Assistente de T.I, atualmente trabalhando na<br>
   <a href="https://www.mmarra.com.br/" target="_blank">MMarra Distribuidora Automotiva 🚚</a><br>
-  • Vivendo em: <b>São Paulo, Brasil
-  <img src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/b0e8c6892dbb64fb13db698a8cd7c6ea33df364f/Brazil.svg" width="20"/>
+  • Vivendo em: <b>São Paulo, Brasil 🟢
   </b>
 </h3>
 
@@ -26,14 +23,6 @@
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="." target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
-    <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ------------
@@ -124,6 +113,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=compact&hide_border=true&hide_title=true">
     <img alt="Linguagens" height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
   </picture>  
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Game" src="https://github.com/platane/platane/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 
