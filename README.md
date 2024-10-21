@@ -2,7 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Olá, sou o Gabriel
 </h1>
-<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/bd7852ae10c0ed0f1c4001f7f8035437458efffc/Image.svg" alt="Imagem" title="Imagem" width="450"/>
+<img align="right" src="https://raw.githubusercontent.com/gabr1elazevedo/gabr1elazevedo/959baead2cdb7314b4b918f9520a29149dce6cec/Image.svg" alt="Image" title="Imagem" width="450"/>
 
 <h3>👋🏻 Sobre Mim:</h3>
 <div align="left">
@@ -104,13 +104,13 @@
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=github_dark&count_private=true&rank_icon=github&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br">
-      <img alt="Status" height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br"> 
+      <img alt="Stats" height="175" align="center" src="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=default&count_private=true&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br"> 
     </picture>         
   </a>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=compact&hide_border=true&hide_title=true">
-    <img alt="Linguagens" height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
+    <img alt="Languages" height="175" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
   </picture>  
 </div>
 
