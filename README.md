@@ -100,7 +100,7 @@
 
 <h3>📊 Meus Status no GitHub:</h3>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://github.com/gabr1elazevedo/github-readme-stats">          
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gabr1elazevedo&theme=github_dark&count_private=true&rank_icon=github&hide_border=true&hide_title=true&show_icons=true&number_format=short&locale=pt-br">
@@ -108,10 +108,12 @@
     </picture>         
   </a>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=compact&hide_border=true&hide_title=true">
-    <img alt="Languages" height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
-  </picture>  
+  <a href="https://github.com/gabr1elazevedo/github-readme-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=github_dark&layout=compact&hide_border=true&hide_title=true">
+      <img alt="Languages" height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabr1elazevedo&theme=default&layout=compact&hide_border=true&hide_title=true">  
+    </picture>  
+  </a>  
 </div>
 
 ------------
