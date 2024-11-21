@@ -2,7 +2,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Olá, sou o Gabriel
 </h1>
-<img align="right" src= "./Image2.svg" alt="Image" title="Imagem" width="450"/>
+<img align="right" src= "./Image.gif" alt="Image" title="Imagem" width="450"/>
 
 <h3>👋🏻 Sobre Mim:</h3>
 <div align="left">
