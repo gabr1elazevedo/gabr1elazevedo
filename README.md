@@ -13,7 +13,7 @@
   <p>• 💬 Sinta-se à vontade para me perguntar sobre:<br>
     <b>Qualquer tema! Adoro aprender e explorar novas ideias.</b></p>
   <p>• 📫 Para entrar em contato comigo:<br>
-    <b>gabrielaffonsoazevedo0@gmail.com</b></p>
+    <b>gabrielaffonsoazevedo@outlook.com.br</b></p>
 </div>
 
 <div align="left">
